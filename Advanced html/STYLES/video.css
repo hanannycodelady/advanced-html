@@ -1,0 +1,16 @@
+video{border: 2px;
+    border-radius: 8px;
+    background-color: antiquewhite;
+    display: block;
+    border: 2px;
+    border-radius: 8px;
+    width: 200px;
+    margin-right: auto;
+    margin-bottom: auto;
+    display: block;
+
+}
+body{
+    background-color:deeppink;
+    text-align: center;
+}

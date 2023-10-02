@@ -1,0 +1,11 @@
+table ,th,td{
+    border: 2px solid rgb(0, 255, 128);
+    border-collapse: collapse;
+
+}
+table tr:nth-child(even){
+    background-color: aqua;
+}
+body{
+    background-color:greenyellow;
+}

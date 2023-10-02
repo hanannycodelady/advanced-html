@@ -1,0 +1,14 @@
+img{
+    border: 2px;
+    border-radius: 8px;
+    width: 200px;
+    background-color: rgb(33, 33, 173);
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+
+}
+body{
+    background-color:cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+}
